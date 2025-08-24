@@ -68,6 +68,23 @@ We aim to build a **personalized AI-powered Study Buddy** that helps students pr
 
 ---
 
+## 👨‍👩‍👦 Team – Syntax Solvers
+
+- **Team Lead:** Vipin Tomar – Backend Developer, AI & DS Student @ SISTec
+
+- **Team Member:** Jayesh Thakur – Full Stack Enthusiast
+
+- **Team Member:** Ambar Gupta – Frontend & Design
+
+---
+
+## 📢 Note
+
+This project is built as part of **Samadhan 2.0 Hackathon.**
+We believe in innovating boldly and making education accessible, bilingual, and collaborative for all students.
+
+---
+
 ## ▶️ How to Run
 ```bash
 # clone repo
@@ -79,3 +96,5 @@ npm install
 
 # run development server
 npm run dev
+
+

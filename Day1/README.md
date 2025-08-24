@@ -15,3 +15,24 @@ I learned about **variables, data types, operators**, and also wrote my **first 
 
 ## 📝 Mini Task
 Create a `student` object and print its details using `console.log`.
+
+---
+
+## 🔑 Example Codes
+
+### variables.js
+Shows how to declare variables and print them.
+
+### operators.js
+Demonstrates basic operators in JavaScript.
+
+### student.js
+Mini task: Create a student object and print details.
+
+---
+
+## ▶️ Run the Programs
+```bash
+node variables.js
+node operators.js
+node student.js

@@ -15,17 +15,3 @@ I learned about **variables, data types, operators**, and also wrote my **first 
 
 ## 📝 Mini Task
 Create a `student` object and print its details using `console.log`.
-
----
-
-## 🔑 Example Codes
-
-### 1. Variables & Types
-```js
-let college = "SISTec Bhopal";  
-let batch = 2027;  
-let isCoder = true;  
-
-console.log("College:", college);
-console.log("Batch:", batch);
-console.log("Coder:", isCoder);

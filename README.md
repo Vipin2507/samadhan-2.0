@@ -5,16 +5,6 @@
 
 ---
 
-## 📅 Event Details
-- **Registration Window:** 2025-08-01 10:51 → 2025-08-25 11:51  
-- **Hackathon Dates:** 2025-09-26 10:48 → 2025-09-27 10:49 (48 hours)  
-- **Team Size:** 1–3 members  
-- **Eligibility:** Students from any Indian college/university with valid ID  
-
-📌 [FAQ & Rules](https://samadhan.sistec.ac.in/faq)
-
----
-
 ## 🎯 Hackathon Theme
 The goal is to **build AI-powered platforms for competitive exam preparation**, focusing on **personalized learning, collaboration, and bilingual accessibility**.
 

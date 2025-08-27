@@ -38,3 +38,16 @@ npm install
 # Start the server
 node index.js
 # The backend will be running on http://localhost:4000
+```
+### 2. Run the Frontend
+
+```bash
+# Navigate to the frontend folder
+cd frontend
+
+# Install dependencies
+npm install
+
+# Start the React app
+npm start
+# The frontend will open and run on http://localhost:3000

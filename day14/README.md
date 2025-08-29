@@ -41,7 +41,50 @@ Follow the same backend setup as Day 13, including creating a `.env` file for yo
 
 # Install dependencies
 npm install
-
 # Start the server
 npm start
 # The server will run on http://localhost:4000
+```
+
+### 2. Test with an API Client (like Postman or Insomnia)
+
+To Register a New User:
+Method: POST
+
+URL: `http://localhost:4000/api/auth/register`
+
+Body (JSON):
+```bash
+JSON
+
+{
+    "username": "vipin",
+    "password": "password123"
+}
+```
+
+To Login:
+Method: POST
+
+URL: `http://localhost:4000/api/auth/login`
+
+Body (JSON):
+
+```bash
+JSON
+
+{
+    "username": "vipin",
+    "password": "password123"
+}
+```
+Successful Response:
+
+```bash
+JSON
+
+{
+    "token": "eyJhbGciOiJI..."
+}
+```
+

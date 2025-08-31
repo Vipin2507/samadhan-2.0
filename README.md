@@ -78,8 +78,8 @@ We believe in innovating boldly and making education accessible, bilingual, and 
 ## ▶️ How to Run
 ```bash
 # clone repo
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Vipin2507/samadhan-2.0.git
+cd samadhan-2.0
 
 # install dependencies
 npm install

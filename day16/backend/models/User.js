@@ -5,27 +5,23 @@ const UserSchema = new mongoose.Schema({
     type: String,
     required: true,
     unique: true,
-    trim: true,
   },
   password: {
     type: String,
     required: true,
   },
+  cart: [
+    {
+      product: {
+        type: mongoose.Schema.Types.ObjectId,
+        ref: 'Product'
+      },
+      quantity: {
+        type: Number,
+        default: 1
+      }
+    }
+  ]
 });
 
 module.exports = mongoose.model('User', UserSchema);
-
-cart: [
-    {
-        productId: {
-            type: mongoose.Schema.Types.ObjectId,
-            ref: 'Product'
-        },
-        quantity: {
-            type: Number,
-            required: true,
-            min: 1,
-            default: 1
-        }
-    }
-]

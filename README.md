@@ -10,6 +10,9 @@
 
 ---
 
+### 👁️ View Our PPT
+**[https://docs.google.com/presentation/d/1ioomc78G4BegAMMwzpwzFlCOY_AecIjs/edit?usp=sharing&ouid=116523496638399512601&rtpof=true&sd=true](https://docs.google.com/presentation/d/1ioomc78G4BegAMMwzpwzFlCOY_AecIjs/edit?usp=sharing&ouid=116523496638399512601&rtpof=true&sd=true)**
+
 ## 🎯 Hackathon Theme
 The goal is to **build AI-powered platforms for competitive exam preparation**, focusing on **personalized learning, collaboration, and bilingual accessibility**.
 
